@@ -1,4 +1,6 @@
 # Analysis-Consumer-Order-Insights
+![sales project](https://github.com/user-attachments/assets/0881fff1-a4cc-4f8c-b344-f67998dfd1f3)
+
 The purpose of this project is to create a dashboard for data analysis and visualization, enabling users to explore and gain insights from a dataset related to consumer orders. The dashboard's key objectives are to:
 
 1. **Provide Data Insights:** The dashboard allows users to quickly access and visualize essential metrics such as profit, discount, and production cost, helping them understand the financial aspects of the orders.
